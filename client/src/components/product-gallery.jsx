@@ -4,7 +4,7 @@ import { getProductList, getSearchedProductsList } from '../services/product'
 import { constants } from '../utils/constants'
 import { addThisItemTocart } from '../services/cart'
 import NavigationBarUser from './navigationBarUser'
-
+import Footer from './Footer'
 import '../Styling/common.css'
 import { useNavigate } from 'react-router-dom'
 
@@ -143,7 +143,7 @@ function ProductGallery() {
         })}
       </div>
       {/*gallery div end*/}
-       
+      <Footer/>
 
     </div>
   )
