@@ -14,7 +14,7 @@ const AboutUs = () =>{
         <div className="para">
             <p >
             A joyful home is one thats filled with beauty, memories and is an embodiment of the people living in it.
-           We design for those who want to experience this joy all around them. Our products are created with an intention, a purpose, and a meaningful thought so
+           nce this joy all around them. Our products are created with an intention, a purpose, and a meaningful thought so
              that they can spark conversations and help people tell their stories through their homes.
              Our designs aim to echo the beauty of nature while enriching your space with authenticity. Whereas, our commitment lies in crafting pieces that not only grace your living spaces but also tell a story of tradition and innovation. Intertwining the stories of our master artisans, each of our creations bears the mark of their dedication and artistry. So, as we continue our journey, we are driven by the desire to create furniture that marries style and substance by blending timeless traditions with the modern sensibilities that make up our lives now.
             </p>
